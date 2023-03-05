@@ -28,7 +28,6 @@ const App = () => (
         <Clients />
         <CTA />
         <Footer />
-        <Footer />
         
       </div>
     </div>
